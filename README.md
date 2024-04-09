@@ -1,4 +1,4 @@
-# Rice Game Web Application
+# Dice Game Web Application
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ This web application is a simple game developed using Java Enterprise Edition (J
 ## Features
 
 - User authentication: Users can create accounts and log in to access the game.
-- Playg: Users can Play and access to their score.
+- Play the game: Users can Play and access to their score.
 - Database selection: Users have the option to use either MySQL database or the application context for data storage.
 
 ## Technologies Used
@@ -32,7 +32,7 @@ This web application is a simple game developed using Java Enterprise Edition (J
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/aymane-maghouti/Rice-Game`
+1. Clone the repository: `git clone https://github.com/aymane-maghouti/Dice-Game`
 2. Set up Apache Tomcat (10.1.18) and MySQL server.
 3. Import the project into your preferred IDE.
 4. create the gamedb database or use the application context for data storage.(you can make your choice via the web.xml file)
@@ -43,7 +43,7 @@ This web application is a simple game developed using Java Enterprise Edition (J
 1. Start Apache Tomcat server.
 2. Access the application through your web browser.
 3. Register for an account or log in if you already have one.
-4. Start playing the Rice Game by buying and selling rice.
+4. Start playing the Dice Game by buying and selling Dice.
 5. Enjoy the game!
 
 ### User Interfaces:
