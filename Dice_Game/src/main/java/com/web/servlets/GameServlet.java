@@ -18,11 +18,7 @@ import com.bo.Utilisateur;
 import com.web.helpers.GameContextManagement;
 import com.web.helpers.IGameDataManagement;
 
-/**
- * Implémente les régles du jeu
- * 
- * @author Aymane Maghouti & Ossama outmani
- */
+
 public class GameServlet extends HttpServlet {
 
 	public GameServlet() {
