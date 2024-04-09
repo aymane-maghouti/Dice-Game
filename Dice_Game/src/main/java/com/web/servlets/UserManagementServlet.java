@@ -17,13 +17,7 @@ import com.bo.Utilisateur;
 import com.web.helpers.GameContextManagement;
 import com.web.helpers.IGameDataManagement;
 
-/**
- * 
- * @author Tarik BOUDAA
- * 
- *         Ecole Nationale des Sciences Appliquées Al Hoceima
- *
- */
+
 public class UserManagementServlet extends HttpServlet {
 
 	private final Logger LOGGER = Logger.getLogger(getClass());
