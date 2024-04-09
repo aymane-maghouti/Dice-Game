@@ -15,10 +15,7 @@ import jakarta.servlet.ServletContextEvent;
 import jakarta.servlet.ServletContextListener;
 import jakarta.servlet.annotation.WebListener;
 
-/**
- * Application Lifecycle Listener implementation class ApplicationInitializer
- *
- */
+
 @WebListener
 public class ApplicationInitializer implements ServletContextListener {
 	
