@@ -12,12 +12,7 @@ import jakarta.servlet.http.HttpSession;
 
 import org.apache.log4j.Logger;
 
-/**
- * Filtre permettant de vérifier si un utilisateur est déjé authentifié
- * 
- * @author T.BOUDAA
- *
- */
+
 public class SecurityFilter implements Filter {
 
 	/** la vue d'authentification */
