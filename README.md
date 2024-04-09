@@ -26,6 +26,7 @@ This web application is a simple game developed using Java Enterprise Edition (J
 - Java Enterprise Edition (JEE)
 - Servlets
 - JavaServer Pages (JSP)
+-  Java server page Standard Tag Library (JSTL)
 - Bootstrap
 - MySQL
 - Apache Tomcat (v10.1.18)
