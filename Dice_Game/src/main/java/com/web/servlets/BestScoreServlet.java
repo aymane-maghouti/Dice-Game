@@ -15,12 +15,7 @@ import com.web.helpers.DataManagementFactory;
 import com.web.helpers.GameContextManagement;
 import com.web.helpers.IGameDataManagement;
 
-/**
- * Cette servlet gère le meilleur score
- * 
- * @author T.BOUDAA
- *
- */
+
 public class BestScoreServlet extends HttpServlet {
 
 	protected void doGet(HttpServletRequest request, HttpServletResponse response)
