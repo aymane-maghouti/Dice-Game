@@ -18,7 +18,7 @@ This web application is a simple game developed using Java Enterprise Edition (J
 
 - User authentication: Users can create accounts and log in to access the game.
 - Play the game: Users can Play and access to their score.
-- Database selection: Users have the option to use either MySQL database or the application context for data storage.
+- Database selection: Users have the option to use either MySQL database or the application context for data storage, with a simple switch in the configuration file.
 
 ## Technologies Used
 
