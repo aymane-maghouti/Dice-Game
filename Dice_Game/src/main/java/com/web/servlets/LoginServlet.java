@@ -15,9 +15,7 @@ import com.bo.Utilisateur;
 import com.web.helpers.GameContextManagement;
 import com.web.helpers.IGameDataManagement;
 
-/**
- * Servlet d'authentification (simpliste) d'un utilisateur
- */
+
 public class LoginServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
