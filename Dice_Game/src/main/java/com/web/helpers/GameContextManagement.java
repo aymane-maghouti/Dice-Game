@@ -6,12 +6,7 @@ import com.bo.Utilisateur;
 
 import jakarta.servlet.ServletContext;
 
-/**
- *
- * 
- * @author T.BOUDAA
- *
- */
+
 public class GameContextManagement implements IGameDataManagement {
 
 	private ServletContext conext;
